@@ -1,6 +1,6 @@
 # MindRef: Mimicking Human Memory for Hierarchical  Reference Retrieval with Fine-Grained Location Awareness
 
-Code implementation of the ACL 2025 main paper [MindRef: Mimicking Human Memory for Hierarchical  Reference Retrieval with Fine-Grained Location Awareness]().
+Code implementation of the ACL 2025 main paper [MindRef: Mimicking Human Memory for Hierarchical  Reference Retrieval with Fine-Grained Location Awareness](https://aclanthology.org/2025.acl-short.67/).
 
 ## Prerequisites
 
